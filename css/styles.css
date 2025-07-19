@@ -1,0 +1,10 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+.banner-img {
+  background-image: url("/images/banner_MYTech Solutions.jpg");
+  background-size: cover;
+  background-position: center;
+  border-radius: 1rem;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
